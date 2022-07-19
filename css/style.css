@@ -1,0 +1,53 @@
+.carousel-item {
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+  padding-left: 6rem;
+  padding-right: 6rem;
+}
+
+.ann {
+  width: 50rem;
+  max-height: fit-content;
+}
+
+.cntnt {
+  margin-top: 5rem;
+}
+
+p.h2 {
+  color: #006b38;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p.h1 {
+  font-size: 60px;
+  font-weight: bold;
+  color: #1a7431;
+}
+
+.drk {
+  color: black;
+}
+
+hr.hline {
+  margin: auto;
+  margin-top: 10rem;
+  height: 1rem;
+  width: 105rem;
+  border: none;
+  border-radius: 100px;
+  background: #134611;
+}
+
+.svgo {
+  margin-top: 5rem;
+  text-align: justify;
+}
+
+.col-lg{
+    margin-right: 3rem;
+    margin-left: 3rem;
+}
